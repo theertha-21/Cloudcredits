@@ -11,9 +11,9 @@ The dataset used is `Order_details-masked.csv` which contains the following colu
 - **Transaction Date**: Date of purchase
 
 ## Project Structure
+-  `Order_details(masked).csv` - Raw dataset file.
 - `README.md` - This documentation file.
 - `product_sales_analysis.ipynb` - Jupyter notebook containing the data analysis and visualizations.
--  `Order_details-masked.csv` - Raw dataset file.
 
 
 ## Analysis Steps
