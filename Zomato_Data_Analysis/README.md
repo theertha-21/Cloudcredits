@@ -9,11 +9,20 @@ This project is part of the **Cloudcredits Data Analytics Internship** and aims 
 - Clean and transform messy data (e.g., rates, cost).
 - Visualize key insights using Matplotlib and Seaborn.
 
-## Tools Used
+## Tools and Libraries
 - Python
 - Pandas, NumPy
 - Seaborn, Matplotlib
+
+
+
+## Project Structure
+- `README.md` – Documentation and project overview.
+- `Zomato_Data_Analysis.ipynb` – Jupyter notebook with data cleaning, exploration, visualization, and insights.
 - 
+
+
+
 ## 🧹 Data Cleaning
 
 - Converted `rate` values from text (e.g., "4.2/5", "NEW") to floats.
