@@ -10,21 +10,13 @@ To identify the reasons why customers are leaving the company (churning) and der
 
 ---
 
-## 📁 Dataset
-
-- **Name**: Telco Customer Churn
-- **Source**: Provided or downloaded from online public datasets (e.g., Kaggle)
-- **Format**: CSV
-
----
-
 ## 🛠️ Tools & Libraries Used
 
 - Python  
 - Jupyter Notebook  
 - Pandas, NumPy – Data handling and transformation  
 - Matplotlib, Seaborn – Data Visualization  
-- Scikit-learn – Basic predictive modeling (if applied)
+- Scikit-learn – Basic predictive modeling
 
 ---
 
@@ -87,8 +79,8 @@ This project is submitted under the **Cloudcredits Technologies Data Analytics I
 ## 🤝 Connect with Me
 
 **Name**: Theertha G  
-**LinkedIn**: [linkedin.com/in/theertha](https://www.linkedin.com/in/theertha) *(add your link if available)*  
-**GitHub**: [github.com/theertha-21](https://github.com/theertha-21)
+**LinkedIn**:(https://www.linkedin.com/in/theerthag) 
+**GitHub**: (https://github.com/theertha-21)
 
 ---
 
